@@ -18,4 +18,8 @@ name = "javascript"
     "meteor",
     "angularjs"
   ]
-  environment = ["nodejs"]
+  environment = [
+    "nodejs",
+    "jquery",
+    "browser"
+  ]
